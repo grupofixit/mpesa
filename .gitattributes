@@ -1,0 +1,9 @@
+# Git attributes for export-ignore (reduces package size when downloaded via Composer)
+/.github            export-ignore
+/tests              export-ignore
+/docs               export-ignore
+.gitignore          export-ignore
+.gitattributes      export-ignore
+phpunit.xml.dist    export-ignore
+phpstan.neon        export-ignore
+CLAUDE.md           export-ignore
